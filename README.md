@@ -432,21 +432,23 @@ Future enhancements could include:
 
 ---
 
+## Project Resources
+
+- [Project Presentation](./AI_Healthcare_Analytics_Agent_ppt.pptx)
+- [User Guide](./AI_Healthcare_Analytics_Agent_User_Guide.pdf)
+- [n8n Workflow](./AI_Healthcare_Analytics_Agent.json)
+- [Workflow Diagram](./AI_Healthcare_Analytics_Agent_Workflow.png)
+- [n8n Workflow Screenshot](./n8n_workflow_screenshot.png)
+
 ## Project Deliverables
 
-The project includes:
-
-- n8n healthcare analytics workflow
-- Microsoft SQL Server healthcare database
-- AI query planning
-- Healthcare KPI calculation
-- Trend analysis
+- AI Healthcare Analytics Agent built in n8n
+- Microsoft SQL Server healthcare database integration
+- Google Gemini AI analysis
+- Automated healthcare KPI and trend analysis
 - Anomaly detection
-- AI-generated healthcare insights
-- Gmail automated reporting
-- Project presentation
-- User guide
-- GitHub documentation
+- Automated Gmail reporting
+- Project presentation and user documentation
 
 ---
 
