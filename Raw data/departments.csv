@@ -1,0 +1,9 @@
+department_id,department_name,location,capacity,department_head
+1,Emergency,Building A,80,Dr. Maya Sharma
+2,Cardiology,Building B,45,Dr. Arjun Mehta
+3,Orthopedics,Building B,50,Dr. Neha Kapoor
+4,Pediatrics,Building C,40,Dr. Rohan Gupta
+5,Neurology,Building C,35,Dr. Priya Nair
+6,Oncology,Building D,30,Dr. Vikram Rao
+7,General Medicine,Building A,70,Dr. Ananya Iyer
+8,ICU,Building D,25,Dr. Kabir Singh
